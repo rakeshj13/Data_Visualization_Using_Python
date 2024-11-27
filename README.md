@@ -45,8 +45,5 @@ The dataset contains information about crime incidents reported by the Metropoli
 
    ![Crime Trends](images/crime_type_vs_timeline.png)
 
-### 4. **Bar Chart with Annotations**
-   - A bar chart of monthly crime data, enhanced with annotations displaying the exact crime count for each month.
 
-   ![Bar Chart with Annotations](images/web_dash_board.png)
 
